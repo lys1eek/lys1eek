@@ -5,8 +5,7 @@ I am currently focusing on **Probability**, **Statistics**, and **Data Science**
 
 - 🔭 I’m currently looking for **Summer Research Opportunities**.
 - 🌱 I’m currently learning **Game Theory** and **Machine Learning**.
-- 💬 Ask me about **Linear Algebra** or **Mathematical Statistics**.
-- 📫 How to reach me: **your_email@mail.ustc.edu.cn**
+- 📫 How to reach me: **liangsy0318@mail.ustc.edu.cn**
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
